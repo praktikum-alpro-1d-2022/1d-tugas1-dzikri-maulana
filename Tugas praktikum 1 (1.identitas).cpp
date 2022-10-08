@@ -4,7 +4,7 @@ using namespace std;
 int main(){
     string npm="2210631170117";
     string nm="Dzikri Maulana";
-    int age=7;
+    int age=17;
     string cls="1D";
     string hby="Membaca buku & bemain game";
     string drm="Menjadi MENKOMINFO";
